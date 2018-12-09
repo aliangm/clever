@@ -1,0 +1,14 @@
+{
+  "name": "ijude",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/proxy",
+      "proxyUrl2": "http://localhost:8000/",
+      "proxyUrl": "http://cleverbreak-ionpan.c9users.io/"
+    }
+  ]
+}
